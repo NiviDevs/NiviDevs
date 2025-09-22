@@ -21,7 +21,8 @@ I'm an ECE undergrad at VIT, currently learning full-stack development and CLI t
 This repo is my **public devlog** where I track progress, log problems, and build cool stuff.
 
 ## 🚀 What I'm Doing Right Now:
-- 🌱 Working on a hackathon management system using React-Router and MongoDB + Express + Socketio
+
+- 🌱 Nothing lmfao
 
 ---
 <!--
