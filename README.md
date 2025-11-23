@@ -1,5 +1,3 @@
-
-
 <!--
 **NiviDevs/NiviDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,6 +23,7 @@ This repo is my **public devlog** where I track progress, log problems, and buil
 - 🌱 Nothing lmfao
 
 ---
+
 <!--
 
 
@@ -37,4 +36,3 @@ Check out [`/devlog`](./devlog) to see what I'm learning and building every day.
 ## 🧩 Projects
 I document and reflect on all my mini-projects in [`/projects`](./projects)
 -->
-
