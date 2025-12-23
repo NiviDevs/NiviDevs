@@ -1,10 +1,11 @@
 # Hi 👋, I'm Nevedya Gwalani
 
 ### Working on a little bit of everything
-
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NiviDevs&label=Profile views&color=0e75b6&style=flat" alt="NiviDevs" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NiviDevs" alt="NiviDevs" /></a> </p>
+-->
 
 - 🔭 I'm currently working on **a Hybrid CNN + Transformer architecture for Image Classification**
 
