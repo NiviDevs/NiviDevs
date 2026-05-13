@@ -7,9 +7,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NiviDevs" alt="NiviDevs" /></a> </p>
 -->
 
-- 🔭 I'm currently working on **a Hybrid CNN + Transformer architecture for Image Classification**
+- 🔭 I'm currently working on **a Voice Agent to Diarize and Scribe Doc-Patient conversation in FHIR Formats**
 
-- 🌱 I'm currently learning **Hyperparameter Tuning**
+- 🌱 I'm currently learning **Scribed Formatting**
 
 - 👯 I'm looking to collaborate on **open source projects**
 
